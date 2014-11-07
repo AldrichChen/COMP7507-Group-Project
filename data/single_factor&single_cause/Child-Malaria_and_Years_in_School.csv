@@ -1,0 +1,169 @@
+"Country","Malaria","Years_in_School"
+"Afghanistan",0.036260530333904,2.6
+"Albania",0,10.1
+"Algeria",0,4.6
+"Angola",17.9804413745324,5
+"Argentina",0,9.7
+"Armenia",0,11.2
+"Australia",0,11.8
+"Austria",0,11.8
+"Azerbaijan",0,12
+"Bahamas",0,10.4
+"Bahrain",0,8.9
+"Bangladesh",0.94589917426268,4.6
+"Belarus",0,11.7
+"Belgium",0,12
+"Belize",0,8.4
+"Benin",26.8175354202145,3.6
+"Bolivia",0.011416133279551,8.3
+"Bosnia and Herzegovina",0,9.2
+"Botswana",0.31768219073639,5.1
+"Brazil",0.012238869231547,6.7
+"Bulgaria",0,11.8
+"Burkina Faso",33.1234704240359,1.7
+"Burundi",14.9252655702734,3.4
+"Cambodia",0.6947135344589,5.3
+"Cameroon",24.1918422461298,6.5
+"Canada",0,14.1
+"Cape Verde",0.083084081090063,4.9
+"Central African Rep.",24.1307412002364,4.5
+"Chad",36.7915992047012,2.6
+"Chile",0,10.1
+"China",0.000110291674605,7.6
+"Colombia",0.013065220491927,6.5
+"Comoros",0,4
+"Congo, Dem. Rep.",32.638211544092,7.5
+"Congo, Rep.",29.6295703912223,8
+"Costa Rica",0,8.3
+"Cote d'Ivoire",23.1399005361076,4
+"Croatia",0,10.9
+"Cuba",0,10.4
+"Cyprus",0,12.2
+"Czech Rep.",0,13.6
+"Denmark",0,12.8
+"Djibouti",0.16541229013316,5.2
+"Dominican Rep.",0.017842964073192,7.4
+"Ecuador",0,8.4
+"Egypt",0,7.8
+"El Salvador",0,7.3
+"Equatorial Guinea",38.6610277689116,7.6
+"Eritrea",0.15930214673376,3.8
+"Estonia",0,11
+"Ethiopia",7.0434419948983,2.2
+"Fiji",0,9.4
+"Finland",0,11.8
+"France",0,10.4
+"Gabon",22.4554305221899,7.5
+"Gambia",23.684038234909,3.8
+"Georgia",0,12.4
+"Germany",0,12.3
+"Ghana",18.9883875402338,7.7
+"Greece",0,10.6
+"Guatemala",0,4.9
+"Guinea",32.7204204288435,2.9
+"Guinea-Bissau",33.0394103073111,3
+"Guyana",0.51387461459404,9.2
+"Haiti",0.6076490570458,4.5
+"Honduras",0.009923440655344,5.8
+"Hungary",0,11.2
+"India",0.23379173407253,6.1
+"Indonesia",0.32916891602709,7.2
+"Iran",0.000720634504268,7.2
+"Iraq",0,6.1
+"Ireland",0,11.1
+"Israel",0,12.5
+"Italy",0,10.6
+"Jamaica",0,9.8
+"Japan",0,12.1
+"Jordan",0,10.4
+"Kazakhstan",0,11.8
+"Kenya",13.7196923326132,7.5
+"Korea, Rep.",0,13
+"Kuwait",0,7.4
+"Kyrgyzstan",0,11.5
+"Laos",0.1118950306828,4.4
+"Latvia",0,11.9
+"Lebanon",0,8.7
+"Lesotho",0,5.8
+"Liberia",21.7485474610651,5.8
+"Lithuania",0,12.2
+"Luxembourg",0,11.5
+"Macedonia, FYR",0,10.6
+"Madagascar",3.62904047238641,5.2
+"Malawi",15.6619059550656,5.7
+"Malaysia",0.01089654997067,8.2
+"Maldives",0,4.1
+"Mali",38.5691896376878,1.9
+"Mauritania",15.2368425927641,3
+"Mauritius",0,8.9
+"Mexico",0,8.2
+"Moldova",0,11.2
+"Mongolia",0,9
+"Montenegro",0,11.6
+"Morocco",0,4.6
+"Mozambique",15.7319061402238,3.5
+"Myanmar",2.12611135410149,5
+"Namibia",2.11096167923597,6.8
+"Nepal",0.010932949586803,4.1
+"Netherlands",0,11.7
+"New Zealand",0,12.4
+"Nicaragua",0,5.6
+"Niger",27.465285771024,1.4
+"Nigeria",36.0584169015047,6.6
+"Norway",0,13.5
+"Oman",0,6.6
+"Pakistan",0.10099437298327,5.3
+"Panama",0,9.2
+"Papua New Guinea",4.92015620770986,4.8
+"Paraguay",0,6.8
+"Peru",0.027916860305673,9.6
+"Philippines",0.017890679895035,8.8
+"Poland",0,12.3
+"Portugal",0,7.5
+"Qatar",0,7.7
+"Romania",0,12.1
+"Russia",0,12.6
+"Rwanda",6.04456002004928,4
+"Saint Lucia",0,8.8
+"Samoa",0,9.8
+"Sao Tome and Principe",0.7773027594248,5.7
+"Saudi Arabia",0,8.3
+"Senegal",19.4949641022151,3.2
+"Serbia",0,10.7
+"Sierra Leone",24.7341748329771,3.1
+"Singapore",0,8
+"Slovak Republic",0,12.7
+"Slovenia",0,11.9
+"Solomon Islands",2.18508997429306,6.1
+"Somalia",11.2307540540746,2.7
+"South Africa",0.046731241300888,8.4
+"Spain",0,8.9
+"Sri Lanka",0,9.1
+"Sudan",26.5702440119726,5.5
+"Suriname",0.20462451401678,7.6
+"Swaziland",0.028538812785388,7.2
+"Sweden",0,12.3
+"Switzerland",0,13.4
+"Syria",0,7.3
+"Tajikistan",0,11.5
+"Tanzania",16.2275252022019,5.6
+"Thailand",0.071660884315787,7
+"Togo",24.1126951224671,5.1
+"Tonga",0,11.2
+"Trinidad and Tobago",0,9.5
+"Tunisia",0,8
+"Turkey",0,8
+"Turkmenistan",0,11.4
+"Uganda",29.0311421754286,6
+"Ukraine",0,12
+"United Arab Emirates",0,9.3
+"United Kingdom",0,13
+"United States",0,13.7
+"Uruguay",0,9.4
+"Uzbekistan",0,11.8
+"Vanuatu",0.70761392584206,6.8
+"Venezuela",0.001670773986049,8.5
+"Vietnam",0.018744832618687,8
+"Yemen, Rep.",0.31093240707791,3.5
+"Zambia",21.5846833361599,7.4
+"Zimbabwe",3.23540625264763,8.2

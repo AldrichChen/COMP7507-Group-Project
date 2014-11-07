@@ -1,0 +1,169 @@
+"Country","Pertussis","Years_in_School"
+"Afghanistan",0.86158173162951,2.6
+"Albania",0,10.1
+"Algeria",0.58925622148196,4.6
+"Angola",2.67942311619623,5
+"Argentina",0.072542408291887,9.7
+"Armenia",0,11.2
+"Australia",0,11.8
+"Austria",0,11.8
+"Azerbaijan",0.21724699776718,12
+"Bahamas",0,10.4
+"Bahrain",0,8.9
+"Bangladesh",0.5047322659213,4.6
+"Belarus",0,11.7
+"Belgium",0.016814070013788,12
+"Belize",0,8.4
+"Benin",4.06432697203251,3.6
+"Bolivia",0.99700897308076,8.3
+"Bosnia and Herzegovina",0,9.2
+"Botswana",0,5.1
+"Brazil",0.01159471821936,6.7
+"Bulgaria",0,11.8
+"Burkina Faso",1.13348168948429,1.7
+"Burundi",0.56573314691766,3.4
+"Cambodia",0.033213396069748,5.3
+"Cameroon",0.95415647314234,6.5
+"Canada",0,14.1
+"Cape Verde",0.33233632436025,4.9
+"Central African Rep.",5.30681441738712,4.5
+"Chad",8.57293616543179,2.6
+"Chile",0.059708859600588,10.1
+"China",0.022113480758377,7.6
+"Colombia",0.019597830737891,6.5
+"Comoros",1.21223424095487,4
+"Congo, Dem. Rep.",3.76498796804646,7.5
+"Congo, Rep.",0.86369597901539,8
+"Costa Rica",0.092793891510684,8.3
+"Cote d'Ivoire",1.28416473880339,4
+"Croatia",0,10.9
+"Cuba",0,10.4
+"Cyprus",0,12.2
+"Czech Rep.",0,13.6
+"Denmark",0,12.8
+"Djibouti",0.86841452319907,5.2
+"Dominican Rep.",0.040146669164682,7.4
+"Ecuador",0,8.4
+"Egypt",0.076919832165889,7.8
+"El Salvador",0,7.3
+"Equatorial Guinea",5.98467922119374,7.6
+"Eritrea",0.37353606820329,3.8
+"Estonia",0,11
+"Ethiopia",1.14287007490891,2.2
+"Fiji",0,9.4
+"Finland",0,11.8
+"France",0.001330250699047,10.4
+"Gabon",2.50347705146036,7.5
+"Gambia",0.42555977478067,3.8
+"Georgia",0,12.4
+"Germany",0,12.3
+"Ghana",0.79971976761862,7.7
+"Greece",0,10.6
+"Guatemala",0.68925600116643,4.9
+"Guinea",4.10790191013614,2.9
+"Guinea-Bissau",4.3549851499623,3
+"Guyana",0,9.2
+"Haiti",5.64088672835891,4.5
+"Honduras",0.019846881310688,5.8
+"Hungary",0,11.2
+"India",3.19873315497486,6.1
+"Indonesia",0.067303075703163,7.2
+"Iran",0.007926979546952,7.2
+"Iraq",2.46276719700019,6.1
+"Ireland",0.014471570599557,11.1
+"Israel",0.035741858004746,12.5
+"Italy",0,10.6
+"Jamaica",0.019083969465649,9.8
+"Japan",0,12.1
+"Jordan",0,10.4
+"Kazakhstan",0,11.8
+"Kenya",0.95067257429121,7.5
+"Korea, Rep.",0,13
+"Kuwait",0,7.4
+"Kyrgyzstan",0.016630495339304,11.5
+"Laos",0.26501454635399,4.4
+"Latvia",0,11.9
+"Lebanon",0.06066396712013,8.7
+"Lesotho",0.96045292938143,5.8
+"Liberia",4.47622649293499,5.8
+"Lithuania",0,12.2
+"Luxembourg",0,11.5
+"Macedonia, FYR",0,10.6
+"Madagascar",1.08696601157684,5.2
+"Malawi",0.58966006848743,5.7
+"Malaysia",0.016344824956005,8.2
+"Maldives",0,4.1
+"Mali",3.89785194062874,1.9
+"Mauritania",1.3708527074341,3
+"Mauritius",0,8.9
+"Mexico",0.002928772258669,8.2
+"Moldova",0,11.2
+"Mongolia",0.020145855997421,9
+"Montenegro",0,11.6
+"Morocco",0.31092843850501,4.6
+"Mozambique",1.40216931222968,3.5
+"Myanmar",0.92968337808497,5
+"Namibia",1.02143307059805,6.8
+"Nepal",1.04409668553967,4.1
+"Netherlands",0,11.7
+"New Zealand",0.017164140677297,12.4
+"Nicaragua",0.15717653782953,5.6
+"Niger",4.33722321584421,1.4
+"Nigeria",5.36719756904255,6.6
+"Norway",0,13.5
+"Oman",0,6.6
+"Pakistan",1.34534248241171,5.3
+"Panama",0.35641475271944,9.2
+"Papua New Guinea",0.30448903839462,4.8
+"Paraguay",0.019520320653801,6.8
+"Peru",0,9.6
+"Philippines",0.034439558797943,8.8
+"Poland",0,12.3
+"Portugal",0,7.5
+"Qatar",0,7.7
+"Romania",0,12.1
+"Russia",0.001294197658926,12.6
+"Rwanda",0.35235119985509,4
+"Saint Lucia",0,8.8
+"Samoa",0,9.8
+"Sao Tome and Principe",0.1943256898562,5.7
+"Saudi Arabia",0,8.3
+"Senegal",0.74432610840791,3.2
+"Serbia",0,10.7
+"Sierra Leone",4.70487021279456,3.1
+"Singapore",0,8
+"Slovak Republic",0,12.7
+"Slovenia",0,11.9
+"Solomon Islands",0.06426735218509,6.1
+"Somalia",7.56558229183266,2.7
+"South Africa",0.000916298849037,8.4
+"Spain",0.002035511534226,8.9
+"Sri Lanka",0.016416722073104,9.1
+"Sudan",0.91360773973908,5.5
+"Suriname",0,7.6
+"Swaziland",0.4851598173516,7.2
+"Sweden",0,12.3
+"Switzerland",0,13.4
+"Syria",0.001694292099347,7.3
+"Tajikistan",0.046672025306609,11.5
+"Tanzania",0.8507524953807,5.6
+"Thailand",0.015355903781954,7
+"Togo",0.77085419104963,5.1
+"Tonga",0,11.2
+"Trinidad and Tobago",0,9.5
+"Tunisia",0,8
+"Turkey",0.023737269961746,8
+"Turkmenistan",0.018072234722185,11.4
+"Uganda",4.41583943592973,6
+"Ukraine",0.006539694857838,12
+"United Arab Emirates",0,9.3
+"United Kingdom",0.006729538501709,13
+"United States",0.008411186059073,13.7
+"Uruguay",0,9.4
+"Uzbekistan",0.016266275312132,11.8
+"Vanuatu",0,6.8
+"Venezuela",0.01670773986049,8.5
+"Vietnam",0.02945616554365,8
+"Yemen, Rep.",4.02793426203208,3.5
+"Zambia",1.04706637073523,7.4
+"Zimbabwe",4.78691858002203,8.2
