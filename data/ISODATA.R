@@ -1,11 +1,10 @@
-data = read.csv("./factor&single_cause/Child-All_causes_All_Factors.csv")
-data = data[, -1]
+
 # NO. of clusters
-nclust <- 5
+nclust <- 15
 # NO. of cases(points)
-npts <- nrow(data)
+npts <- 1000
 # NO. of features
-nCol <- ncol(data)
+nCol <- 1000
 # NO. of iterations
 iters <- 1000
 # threshold ?
@@ -15,14 +14,14 @@ threshold <- 0.02
 # 1st dimension: cluster id (1-15)
 # 2nd dimension: cluster name, x value, y value
 # 3rd dimension: iteration (1-1000)
-cluster.means <- array(dim=c(nclust, 1 + nCol, iters+1), 
-                       dimnames=list(1:nclust, c('cluster', names(data)), NULL))
+cluster.means <- array(dim=c(nclust, 3, iters+1), 
+                       dimnames=list(1:nclust, c('cluster', 'x', 'y'), NULL))
 
 # initial mean vector, randomly generated
-cluster.means[,,1] <- c(1:nclust, runif(9*nclust, 0, 10)) 
+cluster.means[,,1] <- c(1:nclust, runif(2*nclust, 0, 10)) 
 # generate 1000 random scattered points
-#pts <- matrix(c(runif(2*npts, 0, 10)), ncol=2)
-pts <- as.matrix(data)
+pts <- matrix(c(runif(2*npts, 0, 10)), ncol=2)
+#pts <- as.matrix(data)
 # each row represents the i-th iteration clustering result, (m, n) is the clustering result 
 # of the n-th (1 - 1000) point after the m-th iteration. 
 cluster <- matrix(nrow=npts, ncol=iters)
@@ -56,7 +55,7 @@ for (i in 1:iters) {
     # the cluster means after i-th iteration is store in cluster.means[, , 1]
     # [1:nclust] means only get the first column of distance, which is
     # x away from 1, 2, 3, ..., 15-th cluster mean
-    which.min(dist(rbind(x, cluster.means[, 2:10, i]))[1:nclust])
+    which.min(dist(rbind(x, cluster.means[, 2:3, i]))[1:nclust])
   })
   
   # NO. of points in each cluster after the i-th iteration
@@ -67,13 +66,13 @@ for (i in 1:iters) {
   }
   # calculate the new cluster means of each cluster after i-th iteration
   new.means <- aggregate(pts, list(cluster[, i]), mean)
-  colnames(new.means) <- c('cluster', names(data))
+  colnames(new.means) <- c('cluster', 'x', 'y')
   
   # eliminate the null cluster center means, and then assign the new cluster means
   # to (i+1)-th iteration clustering result
   tmp <- as.matrix(merge(cluster.means[,, i], new.means, by='cluster', all.x=TRUE))
-  tmp[, 11:19] <- tmp[, 2:10]
-  cluster.means[,, i+1] <- tmp[, -(2:10)]
+  tmp[is.na(tmp[,4]), 4:5] <- tmp[is.na(tmp[,4]), 2:3]
+  cluster.means[,, i+1] <- tmp[, -(2:3)]
   
   # type='n' for no plotting, no points plotted at this step
   plot(pts, xlim=c(0, 10), ylim=c(0, 10), type='n', ylab='y', xlab='x')
